@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class PrimeNumber {
+public class PrimeNumberOne {
     // Time Complexity : O(n)
     static boolean isPrime(int num){
         for(int i=2;i<num/2;i++){
